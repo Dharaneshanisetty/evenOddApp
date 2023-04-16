@@ -1,0 +1,40 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: linear-gradient(to bottom, #ff6e7f, #bfe9ff);
+}
+.heading {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 48px;
+  font-weight: 700;
+  margin: 20px;
+}
+
+.para {
+  color: #334155;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+
+.increment-button {
+  color: #ffffff #1e293b;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-weight: 500;
+  border: none;
+  border-radius: 12px;
+  padding-left: 24px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 24px;
+}
+
+.info {
+  color: #1e293b;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
